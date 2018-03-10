@@ -1,0 +1,3 @@
+# Module gwt_t
+# RPC service class, partial path of RPC policy file
+de.oligorges.client.GreetingService, 22A4DF289B0E3890EA03F18D22F1D354.gwt.rpc

@@ -1,0 +1,2 @@
+serviceClass: de.oligorges.client.GreetingService
+path: 22A4DF289B0E3890EA03F18D22F1D354.gwt.rpc
