@@ -66,9 +66,9 @@ public class GWT_T implements EntryPoint {
 		final HTML serverResponseLabel = new HTML();
 		VerticalPanel dialogVPanel = new VerticalPanel();
 		dialogVPanel.addStyleName("dialogVPanel");
-		dialogVPanel.add(new HTML("<b>Sending name to the server:</b>"));
+		dialogVPanel.add(new HTML("<b>Daten werden übertragen:</b>"));
 		dialogVPanel.add(textToServerLabel);
-		dialogVPanel.add(new HTML("<br><b>Server replies:</b>"));
+		dialogVPanel.add(new HTML("<br><b>Antwort des Servers:</b>"));
 		dialogVPanel.add(serverResponseLabel);
 		dialogVPanel.setHorizontalAlignment(VerticalPanel.ALIGN_RIGHT);
 		dialogVPanel.add(closeButton);
